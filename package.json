@@ -1,0 +1,27 @@
+{
+  "name": "bot-d3",
+  "version": "0.0.1",
+  "description": "Bot D3 for Discord",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": "",
+  "keywords": [
+    "Node"
+  ],
+  "author": "Inposa",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^6.8.0",
+    "sequelize": "^6.3.0",
+    "sqlite3": "^5.0.0"
+  }
+}
